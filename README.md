@@ -12,3 +12,5 @@ Daniel Alonso Báscones
 [Juan Abelairas Soto-Largo](https://github.com/jas1008).
 
 [Marcos Monge Belenguer](https://github.com/mmb1009).
+
+[Saniago Díaz Gómez-Guillamón](https://github.com/sdg1002).
