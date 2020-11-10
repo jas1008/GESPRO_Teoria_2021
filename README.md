@@ -13,4 +13,4 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 [Marcos Monge Belenguer](https://github.com/mmb1009).
 
-[Saniago Díaz Gómez-Guillamón](https://github.com/sdg1002).
+[Santiago Díaz Gómez-Guillamón](https://github.com/sdg1002).
