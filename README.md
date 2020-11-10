@@ -8,3 +8,5 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 Daniel Alonso Báscones
 
 Abel Lagunar Sancho
+
+[Juan Abelairas Soto-Largo](https://github.com/jas1008).
