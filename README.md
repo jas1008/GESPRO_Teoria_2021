@@ -20,3 +20,13 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 [Álvaro Alonso Marín](https://github.com/xam1002).
 
 [Steven Paul Alba Alba](https://github.com/saa1002).
+
+Correos de los componentes del grupo:
+dab0012@alu.ubu.es
+als1005@alu.ubu.es
+jas1008@alu.ubu.es
+mmb1009@alu.ubu.es
+sdg1002@alu.ubu.es
+svd009@alu.ubu.es
+xam1002@alu.ubu.es
+saa1002@alu.ubu.es
